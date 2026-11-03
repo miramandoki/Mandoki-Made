@@ -4,6 +4,8 @@ All numbers in this file are estimates built on stated assumptions. They are not
 
 ## Tool track: finish and sell the tool
 
+Seller: **Artificial Monks**, your AI company, with the 3D visuals pack delivered by Mandoki Made (see file 03). Which entity invoices is [TBC with accountant].
+
 Current state (your answer): internal use only. It works for you and Thomas but is not packaged for other users. That means the missing work is mostly packaging, not features: onboarding, multi-user setup, support, documentation, terms and a privacy setup.
 
 ### Proposed fixed-price packages (hypotheses to test)

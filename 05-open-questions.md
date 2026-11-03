@@ -11,7 +11,7 @@ Answers I already have: package lives in this repo, ad test budget €250 to €
 6. **Premium figure.** Will you read the Savills Branded Residences Europe 2026 report to confirm the brand premium before it appears in any public copy?
 
 7. **Brand structure.** Do you want the course under Mandoki Made, under a new name, or both (course name plus "by Mandoki Made")? Mandoki Made AB is a separate business, so this needs your accountant's view.
-8. **Names.** Should I test "Artificial Monks" as the tool and AI visuals label, and drop "MMM" as a main brand? See file 03.
+8. **Artificial Monks.** Is it a registered company, and who owns it (you, Thomas, both)? I have set it as the seller of the tool packages. I suggest dropping "MMM" as a main brand. See file 03.
 
 ## Facts only you can supply (marked [TBC] in the files)
 - Your personal story in one sentence for the intro video.
