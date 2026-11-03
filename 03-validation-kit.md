@@ -22,7 +22,15 @@ My pick: **Before Completion**. It matches how agents will search and it does no
 
 Sources: [Wikipedia MMM](https://en.wikipedia.org/wiki/MMM), [Justia trademark record](https://trademarks.justia.com/908/53/mmm-making-moves-90853312.html), [eWEEK on Buddharoid](https://www.eweek.com/news/ai-robot-monk-japan-buddharoid/).
 
-**Suggested structure to discuss with your advisers:**
+**Agreed plan (Mira, 3 Nov 2026):**
+- **Face:** Mira, on camera and on LinkedIn.
+- **Course brand:** Before Completion, with Mira Mandoki.
+- **Course seller:** Mandoki Made [TBC with accountant on VAT and international sales].
+- **Tool seller:** Artificial Monks, with product names such as Amigo CRM up front.
+- **Thomas:** visible as the tool builder in demos and live sessions.
+- **Checks before launch:** accountant, employer contract, trademark and domain for "Before Completion".
+
+**Earlier structure notes:**
 - **Course:** its own descriptive name (such as Before Completion), possibly "by Mandoki Made" since the visuals come from the studio.
 - **Tool packages (website, sales agent, CRM):** sold by Artificial Monks, the AI company.
 - **Visuals pack inside the top tool tier:** delivered by Mandoki Made, so the two businesses are named as separate suppliers.
