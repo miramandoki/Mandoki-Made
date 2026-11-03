@@ -13,6 +13,17 @@ Domain, trademark and social handle availability are **not checked**. Check befo
 
 My pick: **Before Completion**. It matches how agents will search and it does not promise a result.
 
+### Names suggested by Mira
+
+| Name | What I found | Risks and notes |
+|---|---|---|
+| **Mandoki Made & Artificial Monks** | No company or brand called Artificial Monks turned up. Search results are dominated by news about AI robot monks (for example Buddharoid in Japan). | Mandoki Made is your separate Swedish 3D company, so using it for this venture mixes the two. Whether to do that, and which entity sells, is a legal and tax question for your lawyer and accountant. "Artificial Monks" may read as AI plus spirituality and could clash with the understated luxury tone. It suits a studio or creative label better than a course for agents. |
+| **MMM** | 3M trades on the NYSE under MMM, so search and recall will compete with a very large company. Wikipedia also lists a well-known Russian Ponzi scheme called MMM. One US trademark application, "MMM Making Moves & Memories", covers real estate investment consultancy. | Weak for search, and it carries a reputational risk with a finance-minded audience. Fine as a short mark inside a longer name, risky alone. This is not a trademark clearance. Run a proper search with an IP adviser. |
+
+Sources: [Wikipedia MMM](https://en.wikipedia.org/wiki/MMM), [Justia trademark record](https://trademarks.justia.com/908/53/mmm-making-moves-90853312.html), [eWEEK on Buddharoid](https://www.eweek.com/news/ai-robot-monk-japan-buddharoid/).
+
+**Suggested structure to discuss with your advisers:** keep the course on its own descriptive name (such as Before Completion) and place it under a quiet parent line like "by Mandoki Made" only if your accountant confirms the entity set-up. Use "Artificial Monks" as an optional name for the tool and AI visuals side. Skip MMM as a main brand.
+
 ## Landing page copy (one page, English)
 
 **Hero**
