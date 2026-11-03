@@ -19,6 +19,7 @@ First pass, 3 Nov 2026. Draft for Mira's review. Nothing here has been sent or p
 | [06-branded-residence-examples.md](06-branded-residence-examples.md) | Public branded residence examples to teach from, with sources |
 | [07-event-branded-residences-monitor.md](07-event-branded-residences-monitor.md) | 11 Nov 2026 report launch: brief, goals, draft invitation request |
 | [08-delivered-scope-and-tool-packages.md](08-delivered-scope-and-tool-packages.md) | Anonymised delivered scope, tool tiers, flags before reuse |
+| [09-fictional-demo-projects.md](09-fictional-demo-projects.md) | Two fictional demo projects and sample data in demo-data/ |
 
 ## Important caveats
 - The search tool was US-only. Competitor counts, ratings and search volumes are **not verified**. Manual checks are listed in file 01.

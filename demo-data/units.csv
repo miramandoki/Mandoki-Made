@@ -1,0 +1,39 @@
+project,location,unit,typology,floor,area_m2,outdoor,parking,price_eur,price_per_m2_eur,status,completion
+Casa Lumen,Lisbon,CL-01,T1,1,60,None,No,501000,8350,Available,Q4 2028
+Casa Lumen,Lisbon,CL-02,T1,1,55,Balcony 6 m²,No,454000,8250,Available,Q4 2028
+Casa Lumen,Lisbon,CL-03,T1,1,60,Balcony 6 m²,No,525000,8750,Available,Q4 2028
+Casa Lumen,Lisbon,CL-04,T1,1,58,Balcony 6 m²,No,476000,8200,Available,Q4 2028
+Casa Lumen,Lisbon,CL-05,T2,2,91,Balcony 6 m²,Yes,774000,8500,Available,Q4 2028
+Casa Lumen,Lisbon,CL-06,T2,2,86,None,Yes,744000,8650,Available,Q4 2028
+Casa Lumen,Lisbon,CL-07,T2,2,98,Balcony 6 m²,Yes,848000,8650,Available,Q4 2028
+Casa Lumen,Lisbon,CL-08,T2,2,95,Balcony 6 m²,No,826000,8700,Available,Q4 2028
+Casa Lumen,Lisbon,CL-09,T2,3,85,Balcony 6 m²,Yes,706000,8300,Available,Q4 2028
+Casa Lumen,Lisbon,CL-10,T2,3,89,Courtyard view,Yes,756000,8500,Available,Q4 2028
+Casa Lumen,Lisbon,CL-11,T3,3,129,Courtyard view,Yes,1142000,8850,Available,Q4 2028
+Casa Lumen,Lisbon,CL-12,T3,3,126,Balcony 6 m²,Yes,1090000,8650,Available,Q4 2028
+Casa Lumen,Lisbon,CL-13,T3,4,121,Courtyard view,No,1077000,8900,Available,Q4 2028
+Casa Lumen,Lisbon,CL-14,T3 duplex penthouse,5,175,Terrace 60 m²,Yes,2100000,12000,Available,Q4 2028
+Ondine Residences,Silver Coast,OR-01,T2 apartment,1,131,Terrace 25 m²,Yes,1376000,10500,Available,Q2 2029
+Ondine Residences,Silver Coast,OR-02,T2 apartment,2,134,Terrace 25 m²,Yes,1380000,10300,Available,Q2 2029
+Ondine Residences,Silver Coast,OR-03,T2 apartment,3,128,Terrace 25 m²,Yes,1395000,10900,Available,Q2 2029
+Ondine Residences,Silver Coast,OR-04,T2 apartment,1,121,Terrace 25 m²,Yes,1246000,10300,Available,Q2 2029
+Ondine Residences,Silver Coast,OR-05,T2 apartment,2,135,Terrace 25 m²,Yes,1370000,10150,Available,Q2 2029
+Ondine Residences,Silver Coast,OR-06,T2 apartment,3,112,Terrace 25 m²,Yes,1182000,10550,Available,Q2 2029
+Ondine Residences,Silver Coast,OR-07,T2 apartment,1,126,Terrace 25 m²,Yes,1323000,10500,Available,Q2 2029
+Ondine Residences,Silver Coast,OR-08,T2 apartment,2,133,Terrace 25 m²,Yes,1390000,10450,Available,Q2 2029
+Ondine Residences,Silver Coast,OR-09,T2 apartment,3,129,Terrace 25 m²,Yes,1296000,10050,Available,Q2 2029
+Ondine Residences,Silver Coast,OR-10,T2 apartment,1,126,Terrace 25 m²,Yes,1310000,10400,Available,Q2 2029
+Ondine Residences,Silver Coast,OR-11,T2 apartment,2,134,Terrace 25 m²,Yes,1387000,10350,Available,Q2 2029
+Ondine Residences,Silver Coast,OR-12,T2 apartment,3,139,Terrace 25 m²,Yes,1460000,10500,Available,Q2 2029
+Ondine Residences,Silver Coast,OR-13,T3 villa,0,211,Garden 400 m² + pool,Yes,2606000,12350,Available,Q2 2029
+Ondine Residences,Silver Coast,OR-14,T3 villa,0,227,Garden 400 m² + pool,Yes,2758000,12150,Available,Q2 2029
+Ondine Residences,Silver Coast,OR-15,T3 villa,0,220,Garden 400 m² + pool,Yes,2728000,12400,Available,Q2 2029
+Ondine Residences,Silver Coast,OR-16,T3 villa,0,229,Garden 400 m² + pool,Yes,2748000,12000,Reserved,Q2 2029
+Ondine Residences,Silver Coast,OR-17,T3 villa,0,224,Garden 400 m² + pool,Yes,2486000,11100,Available,Q2 2029
+Ondine Residences,Silver Coast,OR-18,T3 villa,0,218,Garden 400 m² + pool,Yes,2605000,11950,Available,Q2 2029
+Ondine Residences,Silver Coast,OR-19,T3 villa,0,211,Garden 400 m² + pool,Yes,2627000,12450,Available,Q2 2029
+Ondine Residences,Silver Coast,OR-20,T3 villa,0,230,Garden 400 m² + pool,Yes,2794000,12150,Available,Q2 2029
+Ondine Residences,Silver Coast,OR-21,T4 villa,0,309,Garden 800 m² + pool,Yes,3878000,12550,Available,Q2 2029
+Ondine Residences,Silver Coast,OR-22,T4 villa,0,300,Garden 800 m² + pool,Yes,3810000,12700,Available,Q2 2029
+Ondine Residences,Silver Coast,OR-23,T4 villa,0,305,Garden 800 m² + pool,Yes,3660000,12000,Available,Q2 2029
+Ondine Residences,Silver Coast,OR-24,T4 villa,0,301,Garden 800 m² + pool,Yes,3672000,12200,Available,Q2 2029

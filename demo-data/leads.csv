@@ -1,0 +1,31 @@
+lead_id,name,email,nationality,project_interest,typology_interest,budget_eur,financing,source,stage,next_action,notes
+L-001,Emma Carter,emma.carter@example.com,Brazil,Casa Lumen,T2,1500000,Cash,AI assistant,Lost,Archive after 30 days,Fictional demo contact
+L-002,Oliver Shaw,oliver.shaw@example.com,Switzerland,Ondine Residences,T4 villa,1000000,"Mortgage, not started",Referral,Contacted,Follow up in 3 days,Fictional demo contact
+L-003,Sofia Romero,sofia.romero@example.com,Sweden,Ondine Residences,T4 villa,1500000,Cash,AI assistant,Contacted,Follow up in 3 days,Fictional demo contact
+L-004,Lucas Carter,lucas.carter@example.com,Brazil,Casa Lumen,T3,800000,"Mortgage, pre-approved",Partner agent,New,Send welcome email,Fictional demo contact
+L-005,Charlotte Keller,charlotte.keller@example.com,Netherlands,Casa Lumen,T1,1500000,"Mortgage, not started",AI assistant,Viewing done,Send financing checklist,Fictional demo contact
+L-006,Henrik Ward,henrik.ward@example.com,Canada,Casa Lumen,T2,4000000,Unknown,Instagram,Lost,Archive after 30 days,Fictional demo contact
+L-007,Amelia Berg,amelia.berg@example.com,Switzerland,Ondine Residences,T2 apartment,1500000,Cash,AI assistant,Reservation,Introduce buyer's lawyer,Fictional demo contact
+L-008,James Laurent,james.laurent@example.com,Netherlands,Casa Lumen,T2,800000,Cash,Website form,New,Send welcome email,Fictional demo contact
+L-009,Ingrid Holm,ingrid.holm@example.com,Belgium,Casa Lumen,T3,600000,Cash,Website form,Qualified,Offer video viewing,Fictional demo contact
+L-010,Noah Lindgren,noah.lindgren@example.com,Netherlands,Ondine Residences,T2 apartment,4000000,"Mortgage, not started",Instagram,Qualified,Offer video viewing,Fictional demo contact
+L-011,Claire Fischer,claire.fischer@example.com,Brazil,Casa Lumen,T2,1500000,"Mortgage, not started",Website form,Viewing booked,Confirm viewing,Fictional demo contact
+L-012,Matteo Carter,matteo.carter@example.com,France,Casa Lumen,T3,1000000,Unknown,Referral,Reservation,Introduce buyer's lawyer,Fictional demo contact
+L-013,Hannah Moretti,hannah.moretti@example.com,Sweden,Casa Lumen,T1,2500000,Cash,Event,Qualified,Offer video viewing,Fictional demo contact
+L-014,Daniel Keller,daniel.keller@example.com,Netherlands,Casa Lumen,T3,1000000,"Mortgage, pre-approved",Partner agent,Viewing done,Send financing checklist,Fictional demo contact
+L-015,Elise Walsh,elise.walsh@example.com,Germany,Ondine Residences,T4 villa,800000,"Mortgage, pre-approved",Instagram,Viewing done,Send financing checklist,Fictional demo contact
+L-016,Samuel Walsh,samuel.walsh@example.com,UK,Casa Lumen,T3,1500000,Cash,Partner agent,Qualified,Offer video viewing,Fictional demo contact
+L-017,Freya Weber,freya.weber@example.com,Netherlands,Ondine Residences,T2 apartment,4000000,Unknown,Referral,Viewing done,Send financing checklist,Fictional demo contact
+L-018,Thomas Hayes,thomas.hayes@example.com,Germany,Ondine Residences,T2 apartment,800000,Unknown,AI assistant,New,Send welcome email,Fictional demo contact
+L-019,Laura Novak,laura.novak@example.com,UK,Casa Lumen,T2,2500000,Unknown,Referral,Viewing done,Send financing checklist,Fictional demo contact
+L-020,Erik Hayes,erik.hayes@example.com,Germany,Casa Lumen,T3,600000,Unknown,AI assistant,Viewing booked,Confirm viewing,Fictional demo contact
+L-021,Grace Romero,grace.romero@example.com,Brazil,Ondine Residences,T2 apartment,4000000,Unknown,Referral,Viewing booked,Confirm viewing,Fictional demo contact
+L-022,Felix Laurent,felix.laurent@example.com,Sweden,Casa Lumen,T1,800000,Unknown,Referral,New,Send welcome email,Fictional demo contact
+L-023,Maya Carter,maya.carter@example.com,Canada,Ondine Residences,T4 villa,1000000,"Mortgage, pre-approved",Website form,Contacted,Follow up in 3 days,Fictional demo contact
+L-024,Jonas Holm,jonas.holm@example.com,Switzerland,Casa Lumen,T3,4000000,"Mortgage, pre-approved",AI assistant,Contacted,Follow up in 3 days,Fictional demo contact
+L-025,Alice Holm,alice.holm@example.com,Germany,Ondine Residences,T2 apartment,1000000,"Mortgage, not started",Partner agent,Viewing done,Send financing checklist,Fictional demo contact
+L-026,Ben Brandt,ben.brandt@example.com,Netherlands,Ondine Residences,T2 apartment,600000,Unknown,Referral,Reservation,Introduce buyer's lawyer,Fictional demo contact
+L-027,Nora Fontaine,nora.fontaine@example.com,Sweden,Ondine Residences,T4 villa,800000,Cash,Instagram,Viewing done,Send financing checklist,Fictional demo contact
+L-028,Leo Moretti,leo.moretti@example.com,Brazil,Casa Lumen,T1,800000,Cash,Event,Contacted,Follow up in 3 days,Fictional demo contact
+L-029,Ava Bennett,ava.bennett@example.com,Canada,Ondine Residences,T4 villa,2500000,Unknown,Website form,Viewing done,Send financing checklist,Fictional demo contact
+L-030,Max Brandt,max.brandt@example.com,UK,Casa Lumen,T1,800000,Cash,Event,Qualified,Offer video viewing,Fictional demo contact
