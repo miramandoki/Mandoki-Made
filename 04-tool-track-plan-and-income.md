@@ -6,7 +6,9 @@ All numbers in this file are estimates built on stated assumptions. They are not
 
 Seller: **Artificial Monks**, your AI company, with the 3D visuals pack delivered by Mandoki Made (see file 03). Which entity invoices is [TBC with accountant].
 
-Current state (your answer): internal use only. It works for you and Thomas but is not packaged for other users. That means the missing work is mostly packaging, not features: onboarding, multi-user setup, support, documentation, terms and a privacy setup.
+Update: the tool has since been delivered to a first client and has working demos. See [08-delivered-scope-and-tool-packages.md](08-delivered-scope-and-tool-packages.md). The timeline below is shortened there to about 3 to 5 weeks.
+
+Earlier state (your first answer): internal use only. It works for you and Thomas but is not packaged for other users. That means the missing work is mostly packaging, not features: onboarding, multi-user setup, support, documentation, terms and a privacy setup.
 
 ### Proposed fixed-price packages (hypotheses to test)
 

@@ -13,6 +13,10 @@ Answers I already have: package lives in this repo, ad test budget €250 to €
 7. **Brand structure.** Do you want the course under Mandoki Made, under a new name, or both (course name plus "by Mandoki Made")? Mandoki Made AB is a separate business, so this needs your accountant's view.
 8. **Artificial Monks.** Is it a registered company, and who owns it (you, Thomas, both)? I have set it as the seller of the tool packages. I suggest dropping "MMM" as a main brand. See file 03.
 
+9. **Client permission and contract.** Does the contract with the first client allow you to reuse the work and the demos (anonymised or named)? Please check before any public use. A lawyer should review.
+10. **Tier prices.** What should the three tool tiers cost, given the real scope delivered? I have only placeholders.
+11. **Who owns Amigo.** Artificial Monks, Mandoki Made, or a mix? Which company delivered and invoiced the first project?
+
 ## Facts only you can supply (marked [TBC] in the files)
 - Your personal story in one sentence for the intro video.
 - What you love most about the work, in your own words.
